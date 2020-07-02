@@ -150,7 +150,7 @@ f[0] = 5
 print(d)
 print(e)
 print(f)
-
+print("end of the numpy")
 
 
 
